@@ -23,6 +23,11 @@ namespace nevgrid
 
 	namespace mpmc
 	{
+
+		class any_queue;
+
+		template<typename T>
+		class queue;
 	}
 }
 
